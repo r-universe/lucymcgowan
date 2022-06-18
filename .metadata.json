@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pald",
+    "oncran": true
+  },
+  {
+    "package": "tidycode",
+    "oncran": true
+  }
+]
