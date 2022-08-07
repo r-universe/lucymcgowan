@@ -6,5 +6,9 @@
   {
     "package": "tidycode",
     "oncran": true
+  },
+  {
+    "package": "tipr",
+    "oncran": true
   }
 ]
