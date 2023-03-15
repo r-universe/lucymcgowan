@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tipr"]
-	path = tipr
-	url = https://github.com/lucymcgowan/tipr
-	shallow = true
-	registered = true
 [submodule "pald"]
 	path = pald
 	url = https://github.com/lucymcgowan/pald
@@ -16,5 +11,10 @@
 [submodule "tidycode"]
 	path = tidycode
 	url = https://github.com/lucymcgowan/tidycode
+	shallow = true
+	registered = true
+[submodule "tipr"]
+	path = tipr
+	url = https://github.com/lucymcgowan/tipr
 	shallow = true
 	registered = true
