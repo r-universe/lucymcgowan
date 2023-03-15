@@ -1,14 +1,14 @@
 [
   {
+    "package": "tipr",
+    "oncran": true
+  },
+  {
     "package": "pald",
     "oncran": true
   },
   {
     "package": "tidycode",
-    "oncran": true
-  },
-  {
-    "package": "tipr",
     "oncran": true
   }
 ]
