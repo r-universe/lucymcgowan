@@ -5,6 +5,3 @@
 [submodule "pald"]
 	path = pald
 	url = https://github.com/lucymcgowan/pald
-[submodule "tidycode"]
-	path = tidycode
-	url = https://github.com/lucymcgowan/tidycode
